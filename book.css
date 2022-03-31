@@ -1,0 +1,56 @@
+nav {
+	text-align: center;
+	background-color: gray;
+	font-family: Verdana;
+	font-size: 20px;
+}
+#nav-bar a {
+	text-decoration: none;
+	color: white;
+	display: inline;
+}
+h3 {
+	text-decoration: underline;
+	color: black;
+}
+body {
+	background-image: url(House\ Design\ 3.jpg);
+	background-repeat: repeat;
+	background-position: top right;
+}
+#img:hover {
+	cursor: pointer;
+	background-image: url(download.jpg);
+}
+form {
+	color: solid black;
+	font-family: Times New Roman;
+	font-size: 25px;
+	background-color: rgba(235, 230, 230, 0.8);
+	height: 430px;
+	width: 700px;
+	border: 2px solid white;
+}
+button {
+	background-color: green;
+	color: white;
+	font-family: Verdana;
+	font-size: 20px;
+	height: 1cm;
+	width: 10cm;
+}
+.button:hover {
+	cursor: pointer;
+	transition-duration: 3s;
+	background-color: rgb(69, 69, 241);
+	color: white;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+}
+footer {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 18px;
+	color: white;
+
+}

@@ -1,0 +1,60 @@
+nav {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 20px;
+	background-color: gray;
+}
+#bar a {
+	text-decoration: none;
+	color: black;
+	display: inline;
+}
+body {
+	background-image: url(hostel.jpg);
+	background-position: center;
+	background-repeat: round;
+	font-family: Times New Roman;
+	font-size: 30px;
+}
+#paradise:hover {
+	cursor: pointer;
+	transition-duration: 2s;
+	background-image: url(Paradise/room-1.jpg);
+	background-image: url(Paradise/room-2.jpg);
+	background-image: url(Paradise/room-3.jpg);
+
+}
+/*#body:hover {
+	cursor: pointer;
+	background-image: none;
+	background-color: whitesmoke;
+}
+*/
+
+p {
+	font-family: Times New Roman;
+	font-size: 25px;
+	color: white;
+}
+p:hover {
+	cursor: pointer;
+	font-family: Times New Roman;
+	font-size: 25px;
+	color: black;
+}
+ul {
+	font-size: 25px;
+	font-family: Times New Roman;
+	color: white;
+}
+footer {
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+footer:hover {
+	cursor: pointer;
+	transition-duration: 1s;
+	color: black;
+}

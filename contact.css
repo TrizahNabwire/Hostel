@@ -1,0 +1,82 @@
+h2 {
+	text-decoration: underline;
+}
+cite {
+	float: right;
+	color: black;
+	font-size: 20px;
+}
+body {
+	background-image: url(phone-cartoon.jpg);
+	background-repeat: repeat;
+	background-position: center;
+}
+table, th, td {
+	background-color: white;
+	font-family: Times New Roman;
+	font-size: 20px;
+	border: 1px solid black;
+}
+p {
+	font-family: Times New Roman;
+	font-size: 30px;
+	color: solid black;
+}
+textarea {
+	background-color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: italic;
+	font-size: 20px;
+	color: solid black;
+}
+form {
+	text-align: center;
+	border: 2px solid black;
+	font-family: Times New Roman;
+	font-size: 20px;
+	color: black;
+	background-color: white;
+	height: 450px;
+	width: 500px;
+	background-image: url(mail\ icon.png);
+	background-position: center;
+	background-repeat: repeat-x;
+}
+button {
+	background-color: rgb(69, 69, 241);
+	font-family: Verdana;
+	font-size: 15px;
+	color: white;
+	height: 1cm;
+	width: 9cm;
+}
+#send:hover {
+	cursor: pointer;
+	transition-duration: 5s;
+	font-family: Verdana;
+	font-size: 15px;
+	color: solid black;
+	background-color: limegreen;
+	border: 1px solid black;
+
+}
+nav {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+	text-decoration-style: none;
+	background-color: gray;
+
+}
+#bar a {
+	color: white;
+	display: inline;
+	text-decoration: none;
+
+}
+#footer {
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: center
+}
