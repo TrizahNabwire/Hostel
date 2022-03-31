@@ -1,0 +1,73 @@
+nav {
+	font-family: Times New Roman;
+	font-size: 20px;
+	background-color: gray;
+	text-align: center;
+}
+#nav-bar a {
+	text-decoration: none;
+	color: white;
+	display: inline;
+}
+body {
+	background-image: url(cash\ money.jpg);
+	background-repeat: repeat;
+}
+h2 {
+	text-decoration: underline;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 25px;
+	color: white;
+}
+cite {
+	float: right;
+	color: white;
+	font-size: 15px;
+}
+form {
+	text-align: center;
+	border: 2px solid white;
+	background-color: white;
+	font-size: 25px;
+	font-family: Times New Roman;
+	height: 400px;
+	width: 700px;
+	background-image: url(download.jpg);
+	background-position: top;
+}
+#pay:hover {
+	cursor: pointer;
+	transition-duration: 2s;
+	background-image: url(Images/House\ Design\ 3.jpg);
+}
+label {
+	color: white;
+}
+input {
+	width: 225px;
+}
+
+button {
+	height: 1cm;
+	width: 8cm;
+	background-color: rgb(69, 69, 241);
+	color: white;
+	font-family: Verdana;
+	font-size: 20px
+}
+#button1:hover {
+	transition-duration: 3s;
+	cursor: pointer;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	background-color: greenyellow;
+	color: black;
+	border: 2px solid red;
+}
+footer {
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}

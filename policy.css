@@ -1,0 +1,24 @@
+nav {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 20px;
+	background-color: gray;
+	text-decoration-style: none;
+	color: white;
+}
+.navbar a {
+	color: white;
+	display: inline;
+	text-decoration: none;
+}
+body {
+	background-color: skyblue;
+	font-family: Times New Roman;
+	font-size: 25px;
+
+}
+footer {
+	font-family: Verdana;
+	font-size: 20px;
+	text-align: center
+}
